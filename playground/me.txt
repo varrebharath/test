@@ -1,0 +1,5 @@
+{{#user}
+Name: Varre Bbharath
+Skills: HTML, CSS, JS,React.js, Angular.js, mongodb, node.js
+Email: bharathvarre2612@gmail.com
+{{/user}}
